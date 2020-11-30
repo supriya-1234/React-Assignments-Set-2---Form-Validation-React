@@ -93,7 +93,7 @@ const App = () => {
       />
       Password:{" "}
       <input
-        type="text"
+        type="password"
         name="password"
         value={user.password}
         data-testid="password"
